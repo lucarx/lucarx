@@ -1,5 +1,5 @@
 # 📌 About Me:
-Pyton, java enthusiast.<br>currently studying python, java and english language.
+Python, java enthusiast.<br>currently studying python, java and english language.
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-adri/)](https://www.linkedin.com/in/lucas-adri/)
