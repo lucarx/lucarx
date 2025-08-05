@@ -1,7 +1,5 @@
 Console.WriteLine ("Lucas Adriano 👨‍💻");
 
-💼 Trabalho atualmente como Desenvolvedor na HUPE
-
 💡 Sou apaixonado por tecnologia e estou sempre buscando me aprimorar como dev
 
 ---
